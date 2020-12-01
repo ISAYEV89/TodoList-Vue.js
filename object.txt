@@ -1,0 +1,5 @@
+    /* list.find((e, i) => {
+                     if (e.id === event){
+                         list[i].status = true
+                     }
+                 }); */
